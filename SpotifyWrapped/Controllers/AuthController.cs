@@ -19,6 +19,6 @@ public class AuthController : Controller
             return BadRequest($"Login fejlede: {error}");
 
         await _auth.HandleCallbackAsync(code, state);
-        return Redirect("/test");
+        return Redirect("/");
     }
 }
