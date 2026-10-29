@@ -9,6 +9,8 @@ obj/
 
 # Rider / JetBrains
 .idea/
+tokens.json
+spotifywrapped.db*
 
 # Andet
 *.log
