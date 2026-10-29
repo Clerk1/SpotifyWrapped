@@ -90,7 +90,9 @@ public class SpotifyAuth
     {
         var res = await _http.PostAsync("https://accounts.spotify.com/api/token",
             new FormUrlEncodedContent(form), ct);
-        res.EnsureSuccessStatusCode();
+        if (!res.IsSuccessStatusCode)
+            throw new HttpRequestException(
+                $"Spotify token-fejl {(int)res.StatusCode}: {await res.Content.ReadAsStringAsync(ct)}");
 
         using var doc = JsonDocument.Parse(await res.Content.ReadAsStringAsync(ct));
         var root = doc.RootElement;

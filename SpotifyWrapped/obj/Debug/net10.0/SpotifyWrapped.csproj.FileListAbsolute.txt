@@ -97,7 +97,6 @@ C:\Users\1ande\RiderProjects\SpotifyWrapped\SpotifyWrapped\obj\Debug\net10.0\com
 C:\Users\1ande\RiderProjects\SpotifyWrapped\SpotifyWrapped\obj\Debug\net10.0\compressed\capm5w7a7s-{0}-u6uuqgu0zy-u6uuqgu0zy.gz
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\appsettings.json
-C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\tokens.json
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\SpotifyWrapped.staticwebassets.runtime.json
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\SpotifyWrapped.staticwebassets.endpoints.json
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\SpotifyWrapped.exe
@@ -310,3 +309,4 @@ C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\runti
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\obj\Debug\net10.0\SpotifyWrapped.csproj.AssemblyReference.cache
 C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\obj\Debug\net10.0\SpotifyW.CAB0F105.Up2Date
+C:\Users\EXG\RiderProjects\SpotifyWrapped\SpotifyWrapped\bin\Debug\net10.0\tokens.json
